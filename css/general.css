@@ -204,3 +204,11 @@ section {
 	0% { top: 100%; }
 	100% { top: -170%; }
 }
+
+#work {
+    color: #fff;
+}
+
+.pad-left {
+    padding-left: 2rem;
+}
